@@ -35,7 +35,12 @@ body {
     
 }
 
-.button {
-    background-color: red;
-    color: white;
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
 }
+
+
+
