@@ -29,7 +29,13 @@ nav a {
     margin-right: 1rem;
 }
 
+
 body {
     font-family: 'Poppins';
     
+}
+
+.button {
+    background-color: red;
+    color: white;
 }
